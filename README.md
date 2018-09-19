@@ -1,7 +1,7 @@
 CHATAPPLICATION
 ------------------------
 How to run the application 
--npm start
+   - npm start
 
 - src  
    - Component 
