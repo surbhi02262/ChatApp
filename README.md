@@ -1,13 +1,16 @@
-#CHATAPPLICATION
--
-How to run the application 
--npm start
+CHATAPPLICATION
+------------------------
+ - How to run the application 
+   - npm install
+   - npm start
 
-src  
-    Component 
-    Images
-    Styles
-    Store
-    index.js
-.eslintrc
-package.json
+
+- Progam structure
+  - src  
+     - Component 
+     - Images
+     - Styles
+     - Store
+     - index.js   
+  - .eslintrc
+  - package.json
