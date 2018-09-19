@@ -4,11 +4,13 @@ CHATAPPLICATION
    - npm install
    - npm start
 
-- src  
-   - Component 
-   - Images
-   - Styles
-   - Store
-   - index.js   
-- .eslintrc
-- package.json
+
+- Progam structure
+  - src  
+     - Component 
+     - Images
+     - Styles
+     - Store
+     - index.js   
+  - .eslintrc
+  - package.json
